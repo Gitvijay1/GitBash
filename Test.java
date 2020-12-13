@@ -3,7 +3,7 @@ public class Test{
         System.out.println("hello");
         System.out.println("hi");
         System.out.println("hi ji");
-        System.out.println("hi hi");
+        System.out.println("hi");
 
           }
 }
